@@ -2,7 +2,6 @@
 
 🎓 Master’s student in **Computational Social Systems** (TU Graz) with a strong foundation in **Data Science, Machine Learning, Statistics, NLP, and Network Science**.  
 ⚽ Former professional football player turned data scientist, passionate about using computational methods to analyze complex social phenomena.  
-📍 Based in Graz, Austria and Podgorica, Montenegro  
 
 ---
 
@@ -26,10 +25,10 @@
 🔎 **[Parliamentary Debates NLP](https://github.com/pavlesav/How-Politicians-Change-the-Way-They-Talk)**  
 Master thesis project – applying NLP to European parliamentary debates to study topic modelling, framing, priming, euphemisms/dysphemisms, and speech complexity.  
 
-📊 **[Network Science Models](#)**  
-Exploring network dynamics and diffusion processes with Python (NetworkX + Mesa).  
+📊 **[Time Series Anomaly Detection](https://github.com/pavlesav/Time-Series-Anomaly-Detection)**  
+Detecting anomalies in time series data
 
-📝 **[Python Labs for Teaching](#)**  
+📝 **[Python Labs for Teaching](https://github.com/pavlesav/ComputationalModellingSocialSystems2025)**  
 A collection of tutorials, exercises, and teaching materials from my role as a Teaching Assistant at TU Graz.  
 
 ⚽ **[Football Analytics](#)**  
