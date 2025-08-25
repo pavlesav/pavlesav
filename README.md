@@ -10,7 +10,6 @@
 - 🔬 Applying **data science to social systems**, bridging computer science, business, and sociology.  
 - 🧠 Research focus: Understanding and analyzing social phenomena through data, stemming from my interdisciplinary background that combines computer science, business, and sociology. Additionally, with my strong connection to football, I’m passionate about applying data science in the field of sports analytics.
 - 👨‍🏫 Teaching Assistant at TU Graz – running Python labs, grading, and helping 100+ students across courses in Computational Modelling & Network Science.  
-- 🌍 Multilingual: Montenegrin (native), English (fluent), German (advanced), Russian (basic), Swedish (beginner).  
 
 ---
 
@@ -24,8 +23,8 @@
 
 ## 🚀 Featured Projects
 
-🔎 **[Parliamentary Debates NLP](#)**  
-Master thesis project – applying NLP to European parliamentary debates to study framing, priming, euphemisms/dysphemisms, and speech complexity.  
+🔎 **[Parliamentary Debates NLP](https://github.com/pavlesav/How-Politicians-Change-the-Way-They-Talk)**  
+Master thesis project – applying NLP to European parliamentary debates to study topic modelling, framing, priming, euphemisms/dysphemisms, and speech complexity.  
 
 📊 **[Network Science Models](#)**  
 Exploring network dynamics and diffusion processes with Python (NetworkX + Mesa).  
