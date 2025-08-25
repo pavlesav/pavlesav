@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pavle Savković  
 
-🎓 Master’s student in **Computational Social Systems** (TU Graz) with a strong foundation in **Data Science, Machine Learning, NLP, and Network Science**.  
+🎓 Master’s student in **Computational Social Systems** (TU Graz) with a strong foundation in **Data Science, Machine Learning, Statistics, NLP, and Network Science**.  
 ⚽ Former professional football player turned data scientist, passionate about using computational methods to analyze complex social phenomena.  
 📍 Based in Graz, Austria and Podgorica, Montenegro  
 
@@ -8,8 +8,8 @@
 
 ## 🔹 About Me  
 - 🔬 Applying **data science to social systems**, bridging computer science, business, and sociology.  
-- 🧠 Research focus: **Natural Language Processing (NLP) on parliamentary debates** – analyzing framing, priming, hedging, and complexity in political speech.  
-- 👨‍🏫 Teaching Assistant at TU Graz – running Python labs, grading, and helping 100+ students across courses in Computational & Network Science.  
+- 🧠 Research focus: Understanding and analyzing social phenomena through data, stemming from my interdisciplinary background that combines computer science, business, and sociology. Additionally, with my strong connection to football, I’m passionate about applying data science in the field of sports analytics.
+- 👨‍🏫 Teaching Assistant at TU Graz – running Python labs, grading, and helping 100+ students across courses in Computational Modelling & Network Science.  
 - 🌍 Multilingual: Montenegrin (native), English (fluent), German (advanced), Russian (basic), Swedish (beginner).  
 
 ---
@@ -39,13 +39,11 @@ Connecting my sports background with data science – performance analysis, matc
 📈 **[Financial & Economic Data Projects](#)**  
 Explorations in macroeconomic and financial datasets, linking my economics degree with machine learning.  
 
-*(Links above can be updated once repos are created/published)*  
-
 ---
 
 ## 📫 Connect with Me  
-- 📧 [Email](mailto:pavleav@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pavle-savkovic/)  
+- 📧 [Email](pavleav@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pavle-savkovic-907b0324a/)  
 - 🐙 [GitHub](https://github.com/pavlesav)  
 
 ---
