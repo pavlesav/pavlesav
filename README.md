@@ -8,7 +8,7 @@
 ## 🔹 About Me  
 - 🔬 Applying **data science to social systems**, bridging computer science, business, and sociology.  
 - 🧠 Research focus: Understanding and analyzing social phenomena through data, stemming from my interdisciplinary background that combines computer science, business, and sociology. Additionally, with my strong connection to football, I’m passionate about applying data science in the field of sports analytics.
-- 👨‍🏫 Teaching Assistant at TU Graz – running Python labs, grading, and helping 100+ students across courses in Computational Modelling & Network Science.  
+- 👨‍🏫 Teaching Assistant at TU Graz for 3 Master level courses – running Python practical exercises and grading them for 100+ students across courses in Computational Modelling & Network Science.  
 
 ---
 
@@ -16,7 +16,7 @@
 **Languages:** Python, R, SQL, LaTeX  
 **Core Skills:** Machine Learning, Statistical Analysis, NLP, Network Science, Data Visualization, Database Management  
 **Libraries & Frameworks:** scikit-learn, PyTorch, pandas, NumPy, matplotlib, seaborn, NetworkX, spaCy, NLTK, Mesa  
-**Other:** Git, Jupyter, Colab, Docker (basic)  
+**Other:** Git, Jupyter, Colab,
 
 ---
 
