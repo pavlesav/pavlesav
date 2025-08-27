@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech & Tools
 **Languages:** Python, R, SQL, LaTeX  
-**Core Skills:** Machine Learning, Statistical Analysis, NLP, Network Science, Data Visualization, Database Management  
+**Core Skills:** Machine Learning, Statistical Analysis, NLP, Network Science, Data Visualization, Database Management, Recommender Systems
 **Libraries & Frameworks:** scikit-learn, PyTorch, pandas, NumPy, matplotlib, seaborn, NetworkX, spaCy, NLTK, Mesa  
 **Other:** Git, Jupyter, Colab,
 
