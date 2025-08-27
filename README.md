@@ -34,7 +34,8 @@ A collection of tutorials, exercises, and teaching materials from my role as a T
 ⚽ **[Football Analytics](#)**  
 Connecting my sports background with data science – performance analysis, match statistics, and player evaluation.  
 
-📈 **[Financial & Economic Data Projects](https://github.com/pavlesav/Predicting-Markets-using-Merger-Announcement-Speeches)**  
+📈 **[Predicting Markets using Merger Announcement Speeches
+](https://github.com/pavlesav/Predicting-Markets-using-Merger-Announcement-Speeches)**  
 Explorations in macroeconomic and financial datasets, linking my economics degree with machine learning.  
 
 ---
