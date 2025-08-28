@@ -35,7 +35,7 @@ A collection of tutorials, exercises, and teaching materials from my role as a T
 Connecting my sports background with data science – performance analysis, match statistics, and player evaluation.  
 
 📈 **[Explorations in macroeconomic and financial datasets, linking my economics degree with machine learning.](https://github.com/pavlesav)**  
-- **[Predicting Markets using Merger Announcement Speeches](https://github.com/pavlesav/Predicting-Markets-using-Merger-Announcement-Speeches)**  
+- **[Predicting Stock Markets using Merger Announcement Speeches](https://github.com/pavlesav/Predicting-Markets-using-Merger-Announcement-Speeches)**  
 
 ---
 
