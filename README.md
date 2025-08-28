@@ -31,12 +31,11 @@ Detecting anomalies in time series data
 📝 **[Python Labs for Teaching](https://github.com/pavlesav/ComputationalModellingSocialSystems2025)**  
 A collection of tutorials, exercises, and teaching materials from my role as a Teaching Assistant at TU Graz.  
 
-⚽ **[Football Analytics](#)**  
+⚽ **[Football Analytics](https://github.com/pavlesav)**  
 Connecting my sports background with data science – performance analysis, match statistics, and player evaluation.  
 
-📈 **[Predicting Markets using Merger Announcement Speeches
-](https://github.com/pavlesav/Predicting-Markets-using-Merger-Announcement-Speeches)**  
-Explorations in macroeconomic and financial datasets, linking my economics degree with machine learning.  
+📈 **[Explorations in macroeconomic and financial datasets, linking my economics degree with machine learning.](https://github.com/pavlesav)**  
+- **[Predicting Markets using Merger Announcement Speeches](https://github.com/pavlesav/Predicting-Markets-using-Merger-Announcement-Speeches)**  
 
 ---
 
