@@ -32,6 +32,7 @@ Detecting anomalies in time series data
 A collection of tutorials, exercises, and teaching materials from my role as a Teaching Assistant at TU Graz.  
 
 ⚽ **[Football Analytics](https://github.com/pavlesav)**  
+Connecting my sports background with data science – performance analysis, match statistics, and player evaluation.  
 -  **[Scraping SofaScore for football data](https://github.com/pavlesav)**
 -  **[Scraping TransferMarkt for football data](https://github.com/pavlesav)**
 -  **[Computer Vision for football implemented on own dataset](https://github.com/pavlesav)**
