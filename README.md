@@ -22,14 +22,18 @@
 
 ## 🚀 Featured Projects
 
-🔎 **[Parliamentary Debates NLP](https://github.com/pavlesav/How-Politicians-Change-the-Way-They-Talk)**  
+🔎 **[Natural Language Processing](https://github.com/pavlesav/How-Politicians-Change-the-Way-They-Talk)**  
 Master thesis project – applying NLP to European parliamentary debates to study topic modelling, framing, priming, euphemisms/dysphemisms, and speech complexity.  
 
 📊 **[Time Series Anomaly Detection](https://github.com/pavlesav/Time-Series-Anomaly-Detection)**  
 Detecting anomalies in time series data
 
-📝 **[Python Labs for Teaching](https://github.com/pavlesav/ComputationalModellingSocialSystems2025)**  
+📝 **[Python Labs for Teaching](https://github.com/pavlesav)**  
 A collection of tutorials, exercises, and teaching materials from my role as a Teaching Assistant at TU Graz.  
+- **[Computational Modelling of Social Systems 2024](https://github.com/pjercic/ComputationalModellingSocialSystems2024)**
+- **[Foundations of Computational Social Systems 2024](https://github.com/pjercic/FoundationsOfCSS2024)**
+- **[Computational Modelling of Social Systems 2025](https://github.com/pavlesav/ComputationalModellingSocialSystems2025)**
+- **[Network Science 2025](https://github.com/pavlesav)**
 
 ⚽ **[Football Analytics](https://github.com/pavlesav)**  
 Connecting my sports background with data science – performance analysis, match statistics, and player evaluation.  
@@ -38,7 +42,8 @@ Connecting my sports background with data science – performance analysis, matc
 -  **[Computer Vision for football implemented on own dataset](https://github.com/pavlesav)**
 -  **[Own model for xG and xPoints](https://github.com/pavlesav)**
 
-📈 **[Explorations in macroeconomic and financial datasets, linking my economics degree with machine learning.](https://github.com/pavlesav)**  
+📈 **[Explorations in macroeconomic and financial datasets](https://github.com/pavlesav)**  
+Linking my economics degree with machine learning.
 - **[Predicting Stock Markets using Merger Announcement Speeches](https://github.com/pavlesav/Predicting-Markets-using-Merger-Announcement-Speeches)**  
 
 ---
