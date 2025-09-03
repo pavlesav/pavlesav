@@ -37,10 +37,9 @@ A collection of tutorials, exercises, and teaching materials from my role as a T
 
 ⚽ **[Football Analytics](https://github.com/pavlesav)**  
 Connecting my sports background with data science – performance analysis, match statistics, and player evaluation.  
--  **[Scraping SofaScore for football data](https://github.com/pavlesav)**
--  **[Scraping TransferMarkt for football data](https://github.com/pavlesav)**
--  **[Computer Vision for football implemented on own dataset](https://github.com/pavlesav)**
+-  **[Visualizations and football graphics]([https://github.com/pavlesav](https://github.com/pavlesav/Euro-2024-visualizations))**
 -  **[Own model for xG and xPoints](https://github.com/pavlesav)**
+-  **[Computer Vision for football implemented on own dataset](https://github.com/pavlesav)**
 
 📈 **[Explorations in macroeconomic and financial datasets](https://github.com/pavlesav)**  
 Linking my economics degree with machine learning.
