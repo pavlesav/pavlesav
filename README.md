@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pavle Savković  
 
-🎓 Master’s student in **Computational Social Systems** (TU Graz) with a strong foundation in **Data Science, Machine Learning, Statistics, NLP, and Network Science**.  
+🎓 Master’s degree in **Computational Social Systems** (TU Graz) with a strong foundation in **Data Science, Machine Learning, Statistics, NLP, and Network Science**.  
 ⚽ Former professional football player turned data scientist, passionate about using computational methods to analyze complex social phenomena.  
 
 ---
