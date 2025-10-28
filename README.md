@@ -22,8 +22,8 @@
 
 ## 🚀 Featured Projects
 
-🔎 **[Natural Language Processing](https://github.com/pavlesav/How-Politicians-Change-the-Way-They-Talk)**  
-Master thesis project – applying NLP to European parliamentary debates to study topic modelling, framing, priming, euphemisms/dysphemisms, and speech complexity.  
+🔎 **[Natural Language Processing](https://github.com/pavlesav/master-thesis)**  
+Master thesis project – applying NLP to European parliamentary debates to study topic modelling, framing, priming, and speech complexity.  
 
 📊 **[Time Series Anomaly Detection](https://github.com/pavlesav/Time-Series-Anomaly-Detection)**  
 Detecting anomalies in time series data
