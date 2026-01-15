@@ -23,7 +23,7 @@ I build end-to-end pipelines that turn raw data into **models, evaluation, and c
 
 ---
 
-## 🚀 Featured projects (best starting points)
+## 🚀 Featured projects
 
 ### 1) 🏛️ Parliamentary NLP pipeline (MSc thesis)
 **Repo:** https://github.com/pavlesav/master-thesis  
