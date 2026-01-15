@@ -1,56 +1,78 @@
-# 👋 Hi, I'm Pavle Savković  
+# 👋 Hi, I'm Pavle Savković
 
-🎓 Master’s degree in **Computational Social Systems** (TU Graz) with a strong foundation in **Data Science, Machine Learning, Statistics, NLP, and Network Science**.  
-⚽ Former professional football player turned data scientist, passionate about using computational methods to analyze complex social phenomena.  
+I’m a **Data Scientist / Applied ML Engineer** with an MSc in **Computational Social Systems (TU Graz)**.  
+I build end-to-end pipelines that turn raw data into **models, evaluation, and clear insights**, especially in **NLP/Text Analytics** and **Computer Vision**.
 
----
-
-## 🔹 About Me  
-- 🔬 Applying **data science to social systems**, bridging computer science, business, and sociology.  
-- 🧠 Research focus: Understanding and analyzing social phenomena through data, stemming from my interdisciplinary background that combines computer science, business, and sociology. Additionally, with my strong connection to football, I’m passionate about applying data science in the field of sports analytics.
-- 👨‍🏫 Teaching Assistant at TU Graz for 3 Master level courses – running Python practical exercises and grading them for 100+ students across courses in Computational Modelling & Network Science.  
+⚽ Former professional football player, I like projects that are practical, performance-driven, and easy to demo.
 
 ---
 
-## 🛠️ Tech & Tools
+## 🔎 What I’m focused on
+- **NLP / Text Analytics:** topic modeling, embeddings, clustering, labeling & evaluation, linguistic style profiling  
+- **Applied ML / Prototyping:** computer vision pipelines, tracking-by-detection, turning video into structured data  
+- **Data Work:** Python + SQL, analysis, visualization, reproducible notebooks and workflows
+
+---
+
+## 🧰 Tech & Tools
 **Languages:** Python, R, SQL, LaTeX  
-**Core Skills:** Machine Learning, Statistical Analysis, NLP, Network Science, Data Visualization, Database Management, Recommender Systems
-**Libraries & Frameworks:** scikit-learn, PyTorch, pandas, NumPy, matplotlib, seaborn, NetworkX, spaCy, NLTK, Mesa  
-**Other:** Git, Jupyter, Colab,
+**ML/NLP:** scikit-learn, PyTorch, spaCy, NLTK, BERTopic  
+**Data:** pandas, NumPy, matplotlib, seaborn  
+**Networks / Simulation:** NetworkX, Mesa  
+**Workflow:** Git, Jupyter, Colab
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured projects (best starting points)
 
-🔎 **[Natural Language Processing](https://github.com/pavlesav/master-thesis)**  
-Master thesis project – applying NLP to European parliamentary debates to study topic modelling, framing, priming, and speech complexity.  
+### 1) 🏛️ Parliamentary NLP pipeline (MSc thesis)
+**Repo:** https://github.com/pavlesav/master-thesis  
+**Goal:** analyze large-scale parliamentary debates with context-aware topic modeling and linguistic style features.  
+**Approach:** debate segmentation → embeddings → clustering/topic modeling → topic labeling → LIWC-22 style profiling → temporal analysis.  
+**Status:** MSc thesis (grade **1 / best**). **Manuscript in preparation** based on the same work.
 
-📊 **[Time Series Anomaly Detection](https://github.com/pavlesav/Time-Series-Anomaly-Detection)**  
-Detecting anomalies in time series data
-
-📝 **[Python Labs for Teaching](https://github.com/pavlesav)**  
-A collection of tutorials, exercises, and teaching materials from my role as a Teaching Assistant at TU Graz.  
-- **[Computational Modelling of Social Systems 2024](https://github.com/pjercic/ComputationalModellingSocialSystems2024)**
-- **[Foundations of Computational Social Systems 2024](https://github.com/pjercic/FoundationsOfCSS2024)**
-- **[Computational Modelling of Social Systems 2025](https://github.com/pavlesav/ComputationalModellingSocialSystems2025)**
-- **[Network Science 2025](https://github.com/pavlesav)**
-
-⚽ **[Football Analytics](https://github.com/pavlesav)**  
-Connecting my sports background with data science – performance analysis, match statistics, and player evaluation.  
--  **[Visualizations and football graphics](https://github.com/pavlesav/Euro-2024-visualizations)**
--  **[Computer Vision for football implemented on own dataset](https://github.com/pavlesav/football-computer-vision)**
--  **[Own model for xG and xPoints](https://github.com/pavlesav)**
-
-
-📈 **[Explorations in macroeconomic and financial datasets](https://github.com/pavlesav)**  
-Linking my economics degree with machine learning.
-- **[Predicting Stock Markets using Merger Announcement Speeches](https://github.com/pavlesav/Predicting-Markets-using-Merger-Announcement-Speeches)**  
+**Quick start:** the repository README contains setup + how to reproduce the main results.
 
 ---
 
-## 📫 Connect with Me  
-- 📧 [Email](pavleav@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pavle-savkovic-907b0324a/)  
-- 🐙 [GitHub](https://github.com/pavlesav)  
+### 2) ⚽ Football computer vision (detection + tracking pipeline)
+**Repo:** https://github.com/pavlesav/football-computer-vision  
+**Goal:** turn match footage into structured data for downstream analytics and visual outputs.  
+**Approach:** YOLO-based detection + tracking-by-detection pipeline (built on my own dataset).
+
+If you want a hands-on ML project with visible results, start here.
 
 ---
+
+### 3) 📊 Euro 2024 visualizations (Streamlit app)
+**Repo:** https://github.com/pavlesav/Euro-2024-visualizations  
+**Goal:** interactive match analytics and football graphics.  
+**Approach:** data cleaning + feature building + plotting + app interface (Streamlit).  
+Includes a deployed app link in the repo.
+
+---
+
+## 📌 Other work (selected)
+- ⏱️ **Time Series Anomaly Detection:** https://github.com/pavlesav/Time-Series-Anomaly-Detection  
+- 📈 **Predicting markets from merger announcement speeches:**  
+  https://github.com/pavlesav/Predicting-Markets-using-Merger-Announcement-Speeches
+
+---
+
+## 👨‍🏫 Teaching (TU Graz)
+I’ve been a **Teaching Assistant** for Master’s level courses (100+ students), running practical Python sessions and grading projects:
+- Computational Modelling of Social Systems
+- Network Science
+- Foundations of Computational Social Systems
+
+### Teaching repositories
+- **Computational Modelling of Social Systems 2024:** https://github.com/pjercic/ComputationalModellingSocialSystems2024  
+- **Foundations of Computational Social Systems 2024:** https://github.com/pjercic/FoundationsOfCSS2024  
+- **Computational Modelling of Social Systems 2025:** https://github.com/pavlesav/ComputationalModellingSocialSystems2025  
+- **Network Science 2025** 
+---
+
+## 📫 Connect
+- 📧 Email: mailto:pavleav@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/pavle-savkovic-907b0324a/  
+- 🐙 GitHub: https://github.com/pavlesav
