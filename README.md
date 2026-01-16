@@ -29,7 +29,7 @@ I build end-to-end pipelines that turn raw data into **models, evaluation, and c
 **Repo:** https://github.com/pavlesav/master-thesis  
 **Goal:** analyze large-scale parliamentary debates with context-aware topic modeling and linguistic style features.  
 **Approach:** debate segmentation → embeddings → clustering/topic modeling → topic labeling → LIWC-22 style profiling → temporal analysis.  
-**Status:** MSc thesis (grade **1 / best**). **Manuscript in preparation** based on the same work.
+**Status:** MSc thesis. **Manuscript in preparation** based on the same work.
 
 **Quick start:** the repository README contains setup + how to reproduce the main results.
 
