@@ -60,10 +60,7 @@ Includes a deployed app link in the repo.
 ---
 
 ## 👨‍🏫 Teaching (TU Graz)
-I’ve been a **Teaching Assistant** for Master’s level courses (100+ students), running practical Python sessions and grading projects:
-- Computational Modelling of Social Systems
-- Network Science
-- Foundations of Computational Social Systems
+I’ve been a **Teaching Assistant** for Master’s level courses (100+ students), running practical Python sessions and grading projects.
 
 ### Teaching repositories
 - **Computational Modelling of Social Systems 2024:** https://github.com/pjercic/ComputationalModellingSocialSystems2024  
