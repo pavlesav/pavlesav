@@ -40,8 +40,6 @@ I build end-to-end pipelines that turn raw data into **models, evaluation, and c
 **Goal:** turn match footage into structured data for downstream analytics and visual outputs.  
 **Approach:** YOLO-based detection + tracking-by-detection pipeline (built on my own dataset).
 
-If you want a hands-on ML project with visible results, start here.
-
 ---
 
 ### 3) 📊 Euro 2024 visualizations (Streamlit app)
