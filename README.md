@@ -68,6 +68,6 @@ I’ve been a **Teaching Assistant** for Master’s level courses (100+ students
 ---
 
 ## 📫 Connect
-- 📧 Email: mailto:pavleav@gmail.com  
+- 📧 Email: pavleav@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/pavle-savkovic-907b0324a/  
 - 🐙 GitHub: https://github.com/pavlesav
