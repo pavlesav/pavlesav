@@ -35,14 +35,22 @@ I build end-to-end pipelines that turn raw data into **models, evaluation, and c
 
 ---
 
-### 2) ⚽ Football computer vision (detection + tracking pipeline)
+### 2) 🤖 Ask Parliament (production-shaped RAG)
+**Repo:** https://github.com/pavlesav/ask-parliament  
+**Goal:** turn the thesis's parliamentary-debate corpus into a question-answering system with grounded, cited answers.  
+**Approach:** ChromaDB vector store over precomputed BGE-m3 embeddings → hybrid **BM25 + vector** retrieval (RRF fusion) → small-to-big context expansion → grounded generation via the **Claude API** → retrieval evaluation (recall@k, MRR). Streamlit chat UI. **No LangChain/LlamaIndex** — every stage written explicitly.  
+**Status:** feature-complete demo; built on the same ParlaMint corpus as the thesis above.
+
+---
+
+### 3) ⚽ Football computer vision (detection + tracking pipeline)
 **Repo:** https://github.com/pavlesav/football-computer-vision  
 **Goal:** turn match footage into structured data for downstream analytics and visual outputs.  
 **Approach:** YOLO-based detection + tracking-by-detection pipeline (built on my own dataset).
 
 ---
 
-### 3) 📊 Euro 2024 visualizations (Streamlit app)
+### 4) 📊 Euro 2024 visualizations (Streamlit app)
 **Repo:** https://github.com/pavlesav/Euro-2024-visualizations  
 **Goal:** interactive match analytics and football graphics.  
 **Approach:** data cleaning + feature building + plotting + app interface (Streamlit).  
