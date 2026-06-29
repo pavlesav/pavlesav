@@ -37,9 +37,9 @@ I build end-to-end pipelines that turn raw data into **models, evaluation, and c
 
 ### 2) 🤖 Ask Parliament (production-shaped RAG)
 **Repo:** https://github.com/pavlesav/ask-parliament  
-**Goal:** turn the thesis's parliamentary-debate corpus into a question-answering system with grounded, cited answers.  
-**Approach:** ChromaDB vector store over precomputed BGE-m3 embeddings → hybrid **BM25 + vector** retrieval (RRF fusion) → small-to-big context expansion → grounded generation via the **Claude API** → retrieval evaluation (recall@k, MRR). Streamlit chat UI. **No LangChain/LlamaIndex** — every stage written explicitly.  
-**Status:** feature-complete demo; built on the same ParlaMint corpus as the thesis above.
+**Goal:** ask natural-language questions over the full **ParlaMint 5.0** corpus — 3.4M speeches across 29 European parliaments (1996–2024) — and get grounded, cited answers.  
+**Approach:** Qdrant index over BGE-m3 embeddings → **agentic retrieval** (multi-query + HyDE → RRF fusion → cross-encoder reranking → self-correcting CRAG loop) → grounded, cited generation via the **Claude API**. **Cross-lingual** — ask in English, retrieve speeches in their original language. Shipped as a **FastAPI backend + thin Streamlit UI + Qdrant** via Docker Compose, with retrieval and LLM-as-judge generation evals. **No LangChain/LlamaIndex** — every stage written explicitly.  
+**Status:** end-to-end and runnable on the full 29-parliament corpus (extends the ParlaMint data from the thesis above).
 
 ---
 
