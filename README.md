@@ -48,13 +48,6 @@ I build end-to-end pipelines that turn raw data into **models, evaluation, and c
 **Goal:** turn match footage into structured data for downstream analytics and visual outputs.  
 **Approach:** YOLO-based detection + tracking-by-detection pipeline (built on my own dataset).
 
----
-
-### 4) 📊 Euro 2024 visualizations (Streamlit app)
-**Repo:** https://github.com/pavlesav/Euro-2024-visualizations  
-**Goal:** interactive match analytics and football graphics.  
-**Approach:** data cleaning + feature building + plotting + app interface (Streamlit).  
-Includes a deployed app link in the repo.
 
 ---
 
@@ -62,6 +55,7 @@ Includes a deployed app link in the repo.
 - ⏱️ **Time Series Anomaly Detection:** https://github.com/pavlesav/Time-Series-Anomaly-Detection  
 - 📈 **Predicting markets from merger announcement speeches:**  
   https://github.com/pavlesav/Predicting-Markets-using-Merger-Announcement-Speeches
+- 📊 **Euro 2024 visualizations (Streamlit app)** https://github.com/pavlesav/Euro-2024-visualizations
 
 ---
 
